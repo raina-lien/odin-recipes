@@ -1,2 +1,1 @@
-# odin-recipes
-Project "Recipes," The Odin Project Foundations Course
+This project is a simple recipe website created in HTML. This website will include a homepage with a title and links to various recipes; each recipe will include a picture of the recipe and instructions. By undertaking and completing this project, I will show mastery of basic HTML skills, including creating titles, headers, and paragraphs, using bold and italic text for both semantic and non-semantic purposes, as well as inserting functioning links (both external and internal) and images. 
