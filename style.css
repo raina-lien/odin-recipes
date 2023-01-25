@@ -1,0 +1,60 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ ul,
+ ol {
+    text-align: left;
+ }
+
+ li {
+    text-align: left;
+ }
+
+#big-title {
+    font-weight: bold;
+    font-size: x-large;
+    color: lightseagreen;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+.recipe-link {
+    color: blue;
+}
+
+.recipe-title {
+    color: aquamarine;
+    font-size: 900;
+    font-weight: bolder;
+}
+
+.description,
+.steps,
+.ingredients {
+    font-style: italic;
+}
+
+.enjoy {
+    font-size: x-large;
+    color: red
+}
+
+a {
+    background-color: lightyellow;
+    color: aqua;
+    text-align: left;
+}
+
+h4 {
+    text-align: left;
+}
+
+.button {
+    display: block;
+    text-align: left;
+}
