@@ -3,14 +3,12 @@
     text-align: center;
 }
 
- ul,
- ol {
+ .container ul,
+ .container ol,
+ .container li {
     text-align: left;
  }
 
- li {
-    text-align: left;
- }
 
 #big-title {
     font-weight: bold;
@@ -21,10 +19,6 @@
 img {
     width: 250px;
     height: auto;
-}
-
-.recipe-link {
-    color: blue;
 }
 
 .recipe-title {
